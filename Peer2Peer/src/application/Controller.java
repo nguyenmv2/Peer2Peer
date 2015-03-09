@@ -39,6 +39,8 @@ public class Controller {
 	@FXML
 	TextArea messageTextArea;
 	
-	public Controller(){}
+	public Controller(){
+		//to-be done later
+	}
 
 }
